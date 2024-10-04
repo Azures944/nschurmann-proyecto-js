@@ -3,15 +3,12 @@ const fn = () => {
     let b = miString + " muy feliz"
     console.log(b)
     console.log('hola mundo')
-    console.log('hola mundillo');
+}    
     
-    
-}
-
-fn()
+ fn()
 
 const clickeado = () => {
     let a = "chanchito feliz"
-
+   
     console.log(a)
 }
